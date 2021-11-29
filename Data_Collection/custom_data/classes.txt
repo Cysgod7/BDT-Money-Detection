@@ -1,0 +1,9 @@
+two_taka
+five_taka
+ten_taka
+twenty_taka
+fifty_taka
+one_hundred_taka
+two_hundred_taka
+five_hundred_taka
+thousand_taka
