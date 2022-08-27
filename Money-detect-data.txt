@@ -1,0 +1,7 @@
+Total data - 887
+
+Validated dataset - 100 per class
+
+Testing Dataset - 200 per class
+
+Training Dataset - 1000 per class
